@@ -36,10 +36,3 @@ npm run dev
 * Twitter: [@saulloalmeida](https://twitter.com/saulloalmeida)
 * Github: [@saulloalmeida](https://github.com/saulloalmeida)
 * LinkedIn: [@saullo-almeida](https://linkedin.com/in/saullo-almeida)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
